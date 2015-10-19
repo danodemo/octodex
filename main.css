@@ -23,6 +23,12 @@ ul {
   max-width: 100%;
   font-family: helvetica;
   font-weight: bold;
+  font-size: 14px;
+}
+
+.image-caption span, .image-caption a {
+  display: inline-block;
+  margin-top: 10px;
 }
 
 .authors {
