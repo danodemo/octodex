@@ -28,6 +28,14 @@ ul {
   float: right;
 }
 
+.image-number:before{
+  content: "#"
+}
+
+.image-number{
+  color: lightgrey;
+}
+
 .image-caption {
   float: right;
 }
