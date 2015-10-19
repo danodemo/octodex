@@ -39,4 +39,10 @@ ul {
 
 .image-caption {
   float: right;
+  color: grey
+}
+
+.image-caption a{
+  text-decoration: none;
+  color: black;
 }
