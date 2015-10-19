@@ -1,1 +1,20 @@
-a
+ul {
+  list-style-type: none;
+}
+
+.octocat {
+  float: left;
+  padding: 3px;
+}
+
+.octocat img {
+  border: 3px solid grey;
+  width: 200px;
+  padding: 5px;
+}
+
+.authors img {
+  width: 20px;
+  border: none;
+  display: inline;
+}
